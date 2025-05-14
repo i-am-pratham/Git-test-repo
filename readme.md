@@ -20,7 +20,7 @@ This repository is created as a part of my learning journey with Git and GitHub.
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Prathamesh Sarode](https://github.com/i-am-pratham)
 
 ---
 
